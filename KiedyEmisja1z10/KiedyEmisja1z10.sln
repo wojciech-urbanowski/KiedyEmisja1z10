@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiedyEmisja1z10", "KiedyEmisja1z10\KiedyEmisja1z10.csproj", "{E3867679-BF86-451C-9954-B907CDC03046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiedyEmisja1z10.Tests", "KiedyEmisja1z10.Tests\KiedyEmisja1z10.Tests.csproj", "{45306E04-8499-472D-AF97-59AFD7A13204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3867679-BF86-451C-9954-B907CDC03046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3867679-BF86-451C-9954-B907CDC03046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3867679-BF86-451C-9954-B907CDC03046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3867679-BF86-451C-9954-B907CDC03046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45306E04-8499-472D-AF97-59AFD7A13204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45306E04-8499-472D-AF97-59AFD7A13204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45306E04-8499-472D-AF97-59AFD7A13204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45306E04-8499-472D-AF97-59AFD7A13204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D63E44-CA50-46A4-A85A-E570C21D6461}
+	EndGlobalSection
+EndGlobal
