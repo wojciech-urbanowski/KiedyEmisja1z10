@@ -23,6 +23,7 @@ steps:
 
 - task: VSBuild@1
   inputs:
+    vsVersion: '17.0'
     solution: '$(solution)'
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
