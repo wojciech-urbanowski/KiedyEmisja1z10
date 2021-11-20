@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiedyEmisja1z10", "KiedyEmisja1z10\KiedyEmisja1z10.csproj", "{E3867679-BF86-451C-9954-B907CDC03046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KiedyEmisja1z10", "KiedyEmisja1z10\KiedyEmisja1z10.csproj", "{E3867679-BF86-451C-9954-B907CDC03046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiedyEmisja1z10.Tests", "KiedyEmisja1z10.Tests\KiedyEmisja1z10.Tests.csproj", "{45306E04-8499-472D-AF97-59AFD7A13204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KiedyEmisja1z10.Tests", "KiedyEmisja1z10.Tests\KiedyEmisja1z10.Tests.csproj", "{45306E04-8499-472D-AF97-59AFD7A13204}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{796C980B-C701-454F-8602-5A22264C7BA8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
